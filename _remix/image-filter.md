@@ -21,6 +21,4 @@ tags:
 
 See the Pen image processing(saturate) by p15bako (@p15bako) on CodePen.
 
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 <p data-height="350" data-theme-id="17517" data-slug-hash="VLJWMQ" data-default-tab="result" data-user="p15bako" class='codepen'>See the Pen <a href='https://codepen.io/p15bako/pen/qBNwdKd'>image processing(saturate)</a> by p15bako (<a href='https://codepen.io/p15bako'>@p15bako</a>) on <a href='https://codepen.io'>CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
