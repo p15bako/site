@@ -10,4 +10,3 @@ tags:
   - Sergey Brin
   - Google
 ---
-
